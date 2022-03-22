@@ -14,7 +14,7 @@
 
 # Issues will be fixed asap. Pull Request Welcomed.
 
-##Contact me!
+## Contact me!
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/Ancordss)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/james-maradiaga-891549220/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maradiaga.l.james@gmail.com)
